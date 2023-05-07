@@ -29,7 +29,7 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
  pip install mechanize
  cd $HOME 
  rm -rf Auto_Cookies
- git clone --depth=1 https://github.com/U7P4L-IN/ALL_IN_ONE.git
+ git clone --depth=1 https://github.com/U7P4L-IN/Auto_Cookies.git
 
  cd Auto_Cookies
 
