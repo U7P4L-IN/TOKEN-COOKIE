@@ -44,6 +44,6 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ALL_IN_ONE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Auto_Cookies&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ### Thanks For Visiting 🧡🧡
