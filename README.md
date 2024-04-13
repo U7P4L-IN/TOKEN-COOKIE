@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=TOKEN+COOKIE&fontAlign=60&fontAlignY=40&color=gradien" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=TOKEN+COOKIE&fontAlign=70&fontAlignY=50&color=gradient" width="100%"/>
 </p>
 
 </p>
