@@ -54,12 +54,12 @@ git clone --depth=1 https://github.com/U7P4L-IN/TOKEN-COOKIE.git
 cd TOKEN-COOKIE
 python main.py
 ```
-<p align="center"><img src="./image/carbon.png">
+<p align="center"><img src="./Image/carbon.png">
 
 <h5 align="center"><b>TERMUX</b></h5>
 
-<p align="center"><img src="./image/demo1.jpg">
-<p align="center";><img src="./image/demo2.jpg"> 
+<p align="center"><img src="./Image/demo1.jpg">
+<p align="center";><img src="./Image/demo2.jpg"> 
 
 
 # Report bugs
@@ -92,9 +92,9 @@ sudo python3 main.py
 ```
 <h5 align="center"><b>KALI LINUX</b></h5>
 
-<p align="center"><img src="./image/demo3.png">
-<p align="center"><img src="./image/demo4.png">
-<p align="center"><img src="./image/demo5.png">
+<p align="center"><img src="./Image/demo3.png">
+<p align="center"><img src="./Image/demo4.png">
+<p align="center"><img src="./Image/demo5.png">
     
 </br>
 
@@ -107,7 +107,6 @@ sudo python3 main.py
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TOKEN-COOKIE&title_colo
 r=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
 </p>
-
 
 <br>
 <h4 align="center">DISCLAIMER > </h4><br>
