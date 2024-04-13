@@ -104,8 +104,8 @@ sudo python3 main.py
 
 ### Tools Languages :
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TOKEN-COOKIE&title_colo
-r=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=TOKEN-COOKIE&title_colour=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
 </p>
 
 <br>
