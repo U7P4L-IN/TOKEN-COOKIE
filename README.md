@@ -16,7 +16,7 @@
 </br>
 
 ### What is TOKEN-COOKIE?
-[**Tokenz**](https://github.com/U7P4L-IN/TOKEN-COOKIE) is a program to get token access from Instagram which has quite complete features.
+[**TOKEN-COOKIE**](https://github.com/U7P4L-IN/TOKEN-COOKIE) is a program to get token access from fb which has quite complete features.
 
 ### No tokens/cookie appearing?
 
