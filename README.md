@@ -33,8 +33,7 @@
 ## Contributing
 Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
 
-<br>
-<h4 align="left">TESTED ON > </h4><br>
+<h4 align="left">TESTED ON > </h4>
 
 * Kali Linux
 * Termux
@@ -42,7 +41,6 @@ Feel Free To Clone This Project. For Major Changes, Please Open An Issue First T
 * Ubuntu
 * Perrot Sec OS
 
-<br>
 <h4 align="left">INSTALL TOOL ON TERMUX > </h4>
  
 ```python
@@ -85,8 +83,8 @@ And some other python packages
 
 ```python
 sudo apt-get update && apt-get install git
-git clone https://github.com/U7P4L-IN/USER-AGENT.git
-cd USER-AGENT
+git clone https://github.com/U7P4L-IN/TOKEN-COOKIE.git
+cd TOKEN-COOKIE
 ls
 sudo python3 main.py
 ```
@@ -97,9 +95,7 @@ sudo python3 main.py
 <p align="center"><img src="./Image/demo5.png">
     
 </br>
-
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 </br>
 
 ### Tools Languages :
@@ -128,9 +124,10 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
-> [!NOTE]  
-> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
-
+* ©️ Copyright Message
+>> Copyright © [2023-27] [U7P4L-IN]
+>All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+ 
 # Give A Star ⭐
 
-> You can also give this repository a star to show more people and they can use this repository
+> You can also give this repository a star to show more people and they can use this repository.
